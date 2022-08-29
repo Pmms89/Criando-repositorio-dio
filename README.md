@@ -1,7 +1,7 @@
 # Criando-repositorio-dio
-1st repository - Learned from Dio.
+Primeiro repositório a partir das aulas da Dio.
 
-### Notes of Git/GitHub classes from Dio.
+### Notas sobre Git/GitHub durante as aulas da Dio.
 
 - Useful link:
 [Dio website](https://www.dio.me/en)
