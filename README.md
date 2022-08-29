@@ -3,5 +3,5 @@
 
 ### Notes of Git/GitHub classes from Dio.
 
-- Useful links:
+- Useful link:
 [Dio website](https://www.dio.me/en)
