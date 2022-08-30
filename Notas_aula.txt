@@ -1,0 +1,41 @@
+# Git/GitHub:
+
+
+### Comandos usados no diretório do Windows é diferente dos comandos Linux e Mac
+
+- Listar repositórios: 
+Windows = dir
+Unix = ls
+
+- Mudar diretório
+Windows = cd
+Unix = cd
+
+-Criar diretórios
+Windows = mkdir
+Unix = mkdir
+
+-Deletar do sistema
+Windows = del/rmdier
+Unix = rm ou -rf
+
+
+### O Git por debaixo dos panos:
+- SHA1 (Security Hash Algorithm) = conjunto de funções hash criptografias (sempre um conjunto de 40 dígitos);
+
+- Objetos fundamentais = Blob, Tree e Commit
+
+- Sistema distribuído (devido aos objetos fundamentais) e de segurança (devido ao SHA1).
+
+### A conexão do repositório remoto com o local pode ser feita via chaves SSH ou Tokens.
+
+### Ciclo da vida dos arquivos Git:
+- Untracked to Staged (quando adiciona um arquivo)
+- Unmodified to Modified (quando edita um arquivo)
+- Modified to Staged ("Stage" o arquivo)
+- Stage to Unmodified (quando Commit o arquivo do staged)
+- Unmodified to Untracked (quando remove o arquivo)
+
+
+
+
